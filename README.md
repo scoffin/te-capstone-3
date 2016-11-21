@@ -1,12 +1,14 @@
 # te-capstone-3
 
-* * * Tech Elevator Module 3: Web Applications Programming (Server Side) * * *
+Tech Elevator Module 3: Web Applications Programming (Server Side)
 
-* Project: java-capstone-3 ("National Parks Geek")
+Project: java-capstone-3 ("National Parks Geek")
 
-* Overview: create a web application that displays information about different national parks (data is static)
+Programmers: Sondra Coffin, Michael Mazzullo
 
-* User stories: 
+Overview: create a web application that displays information about different national parks (data is static)
+
+User stories: 
 As a user of the system I want to be able to... 
 ... view the complete list of all national parks featured in the application from the homepage
 ... select an individual park from the list to view its details
